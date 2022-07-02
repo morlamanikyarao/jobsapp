@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  color: white;
+  background: red;
+  border: green solid thick;
+}
+img{
+  margin: 40px;
+  border: green solid thick;
+}
+#hydp{
+  font-size: 20px;
+  text-align: center;
+}
+.jumbotron table tr{
+background:red;  
+}
